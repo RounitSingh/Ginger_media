@@ -1,0 +1,33 @@
+/* styles.css */
+
+body {
+    margin: 20px; /* Adjust margin as needed */
+    background-color: #a9a8a8; /* Background color for the entire page */
+  }
+  
+  .editable-field {
+    margin-bottom: 10px;
+  }
+  
+  .editable-field label {
+    font-weight: bold;
+  }
+  
+  .editable-field input[type="text"] {
+    width: 200px;
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  .editable-field button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border-radius:10px;
+    cursor: pointer;
+  }
+  
+  .editable-field button:hover {
+    background-color: #0056b3;
+  }
+
